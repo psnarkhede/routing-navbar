@@ -1,0 +1,10 @@
+.navbar{
+    border:1px solid black;
+    width:90%;
+    margin:auto;
+    font-size:24px;
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 20px;
+    gap: 20px;
+}

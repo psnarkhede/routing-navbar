@@ -1,0 +1,28 @@
+.box{
+    border:1px solid red;
+    width:90%;
+    margin: auto;
+    margin-top: 20px;
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.comp{
+    border:1px solid green;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    width:300px;
+}
+
+.out{
+    border:1px solid red;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-left: 20px;
+}
